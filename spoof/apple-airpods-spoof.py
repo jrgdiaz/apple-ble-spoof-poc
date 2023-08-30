@@ -1,5 +1,5 @@
 from scapy.all import *
-load_contrib('ibeacon')
+load_contrib('ibeacon') #loads the slightly modified ibeacon.py contrib code
 
 
 print('advertising crafted bt packets')

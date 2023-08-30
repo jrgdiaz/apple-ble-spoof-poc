@@ -9,7 +9,7 @@ A simple Apple BLE Airpods spoofing POC based on Scapy; Inspired on DEFCON 31's 
 * util/btconfig.sh helps reset the bluetooth interface of a Raspberry Pi Zero W before running the spoof POC.
 
 
-* spoof/apple-airpods-spoof.py is the script that performs THE spoof attack itself grabs a handle of the Pi's bluetooth interface and sends out the airpods' advertising packets. Should be run with sudo.
+* spoof/apple-airpods-spoof.py is the script that performs THE spoof attack itself, handles the Pi's bluetooth interface and sends out the airpods' advertising packets. Should be run with sudo.
 
 
 

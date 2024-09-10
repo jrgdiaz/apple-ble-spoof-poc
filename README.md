@@ -1,7 +1,5 @@
 # apple-ble-spoof-poc
 
-A simple deep dive of the Apple BLE Airpods spoofing POC based on Scapy; Inspired by DEFCON 31's Apple TV spoof attacks.
-
 https://techcrunch.com/2023/08/16/this-70-device-can-spoof-an-apple-device-and-trick-you-into-sharing-your-password/
 
 * util/ibeacon.py contains slightly modified scapy contrib code based on the original: https://github.com/secdev/scapy/blob/master/scapy/contrib/ibeacon.py

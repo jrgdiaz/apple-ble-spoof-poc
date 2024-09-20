@@ -16,7 +16,7 @@ Setup:
 * util/btconfig.sh bash script helps configure & reset the bluetooth interface of the Raspberry Pi Zero W before running the spoof PoC script.
 
 
-* spoof/apple-airpods-spoof.py is the script that performs THE spoof attack itself, handles the Pi's bluetooth interface and sends out the airpods' advertising packets. Should be run with sudo.
+* spoof/apple-airpods-spoof.py is the script that performs THE spoof attack itself, handles the Pi's bluetooth interface and sends out spoofed airpods' advertising packets. Should be run with sudo.
 
 
 

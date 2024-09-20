@@ -12,16 +12,19 @@ Setup:
 
 * Tested on a Raspberry Zero W with USB UD100 Bluetooth Dongle.
 
-* util/ibeacon.py contains slightly modified scapy code but it's still based on the original and can be found here: 
+* util/ibeacon.py contains slightly modified scapy code but it's still based on the original and can be found here:
+   
   https://github.com/secdev/scapy/blob/master/scapy/contrib/ibeacon.py
 
 * Substitute the original ibeacon.py with util/ibeacon.py
   The default ibeacon.py file location can be typically found in:
-  /usr/local/lib/python{your-version}/dist- packages/scapy/contrib/ibeacon.py
+  
+  /usr/local/lib/python{your-version}/dist-packages/scapy/contrib/ibeacon.py
 
 
 * util/btconfig.sh bash script configures & reset the bluetooth interface of the Raspberry Pi Zero W prior to running 
   the spoof PoC script. Uses spooftooph-bin, you can check it here:
+  
   https://www.kali.org/tools/spooftooph/
 
 

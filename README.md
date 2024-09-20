@@ -1,6 +1,6 @@
 # apple-ble-spoof-poc
 
-Implemented with Scapy
+A simple Apple BLE Spoof PoC implemented with Scapy
 
 In the news:
 

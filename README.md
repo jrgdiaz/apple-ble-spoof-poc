@@ -10,7 +10,7 @@ https://techcrunch.com/2023/08/16/this-70-device-can-spoof-an-apple-device-and-t
 
 Setup:
 
-* Tested on a Raspberry Pi Zero W with USB UD100 Bluetooth Dongle.
+* Tested on a Raspberry Pi Zero W with USB UD100 Bluetooth dongle.
 
 * util/ibeacon.py contains slightly modified scapy code but it's still based on the original and can be found here:
    

@@ -14,7 +14,7 @@ Setup:
 
 * util/ibeacon.py contains slightly modified scapy code but it's still based on the original and can be found here: https://github.com/secdev/scapy/blob/master/scapy/contrib/ibeacon.py
 
-* Substitute the original ibeacon.py with util/ibeacon.py. Which is located in the filesystem, in my case the path was /usr/local/lib/python3.7/dist-packages/scapy/contrib/ibeacon.py
+* Substitute the original ibeacon.py with util/ibeacon.py. File location typically is /usr/local/lib/python3.7/dist-packages/scapy/contrib/ibeacon.py
 
 
 * util/btconfig.sh bash script helps configure & reset the bluetooth interface of the Raspberry Pi Zero W before running the spoof PoC script.

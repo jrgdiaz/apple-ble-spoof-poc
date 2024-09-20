@@ -17,7 +17,7 @@ Setup:
 * Substitute the original ibeacon.py with util/ibeacon.py. File location typically is /usr/local/lib/python3.7/dist-packages/scapy/contrib/ibeacon.py
 
 
-* util/btconfig.sh bash script helps configure & reset the bluetooth interface of the Raspberry Pi Zero W before running the spoof PoC script.
+* util/btconfig.sh bash script configures & reset the bluetooth interface of the Raspberry Pi Zero W prior to running the spoof PoC script.
 
 
 * spoof/apple-airpods-spoof.py is the script that performs THE spoof attack itself, handles the Pi's bluetooth interface and sends out spoofed airpods' advertising packets. Should be run with sudo.

@@ -22,6 +22,8 @@ Setup:
 
 * spoof/apple-airpods-spoof.py is the script that performs THE spoof attack itself, handles the Pi's bluetooth interface and sends out spoofed airpods' advertising packets. Should be run with sudo.
 
+* For the demonstration, btconfig.sh & spoof/apple-airpods-spoof.py were placed in a cronjob to run at boot on the RPi with the Bluetooth dongled connected.
+
 
 
 

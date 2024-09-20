@@ -19,7 +19,7 @@ Setup:
 * Substitute scapy's default `ibeacon.py` with the provided `util/ibeacon.py`.
   Scapy's `ibeacon.py` file location can be typically found in:
   
-  `/usr/local/lib/python{version}/dist-packages/scapy/contrib/ibeacon.py`
+  `/usr/local/lib/python-version/dist-packages/scapy/contrib/ibeacon.py`
 
 
 * `util/btconfig.sh` bash script configures & reset the bluetooth interface of the Raspberry Pi Zero W prior to running 

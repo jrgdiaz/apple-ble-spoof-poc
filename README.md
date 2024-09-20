@@ -16,7 +16,7 @@ Setup:
    
   https://github.com/secdev/scapy/blob/master/scapy/contrib/ibeacon.py
 
-* Substitute scapy's default `ibeacon.py` with the provided `util/ibeacon.py`
+* Substitute scapy's default `ibeacon.py` with the provided `util/ibeacon.py`.
   Scapy's `ibeacon.py` file location can be typically found in:
   
   `/usr/local/lib/python{version}/dist-packages/scapy/contrib/ibeacon.py`

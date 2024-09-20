@@ -2,6 +2,8 @@
 
 Apple BLE Spoof PoC implemented with Scapy.
 
+This project is created only for educational purposes.
+
 In the news:
 
 https://techcrunch.com/2023/08/16/this-70-device-can-spoof-an-apple-device-and-trick-you-into-sharing-your-password/

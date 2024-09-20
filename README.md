@@ -6,7 +6,7 @@ In the news:
 
 https://techcrunch.com/2023/08/16/this-70-device-can-spoof-an-apple-device-and-trick-you-into-sharing-your-password/
 
-Setup
+Setup:
 
 * util/ibeacon.py contains slightly modified scapy code but it's still based on the original and can be found here: https://github.com/secdev/scapy/blob/master/scapy/contrib/ibeacon.py
 

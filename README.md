@@ -21,7 +21,8 @@ Setup:
 
 
 * util/btconfig.sh bash script configures & reset the bluetooth interface of the Raspberry Pi Zero W prior to running 
-  the spoof PoC script.
+  the spoof PoC script. Uses spooftooph-bin, you can check it here:
+  https://www.kali.org/tools/spooftooph/
 
 
 * spoof/apple-airpods-spoof.py is the script that performs THE spoof attack itself, handles the Pi's bluetooth 

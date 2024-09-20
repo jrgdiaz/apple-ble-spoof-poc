@@ -2,7 +2,7 @@
 
 Apple BLE Spoof PoC implemented with Scapy.
 
-This project is created only for educational purposes.
+This project is created only for educational purposes
 
 In the news:
 
